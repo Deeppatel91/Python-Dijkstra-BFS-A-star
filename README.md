@@ -29,18 +29,18 @@ This project is a Pygame-based visualization tool for three popular pathfinding 
 ## Screenshots
 ## A\* Controlled Algorithm
 
-![A* Algorithm Controlled](screenshot\AstarContolled.png)
+![A* Algorithm Controlled](screenshot/AstarContolled.png)
 ## A\* Algorithm 
-![A* Algorithm](screenshot\Astarpygame.png)
+![A* Algorithm](screenshot/Astarpygame.png)
 
 ## Breadth-First Search (BFS)
-![BFS Algorithm](screenshot\bfs_pygame.png)
+![BFS Algorithm](screenshot/bfs_pygame.png)
 ## Breadth-First Search Controlled (BFS)
-![BFS Algorithm](screenshot\bfs_pygame_control.png)
+![BFS Algorithm](screenshot/bfs_pygame_control.png)
 
 ## Dijkstra's Algorithm
 
-![Dijkstra's Algorithm](screenshot\dijkshatras_pygame.png)
+![Dijkstra's Algorithm](screenshot/dijkshatras_pygame.png)
 
 ## Requirements
 
